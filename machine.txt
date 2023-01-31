@@ -23,3 +23,7 @@ L1i cache:                       256 KiB
 L2 cache:                        4 MiB
 L3 cache:                        16 MiB
 NUMA node0 CPU(s):               0-15
+MemTotal:                       65574408 kB
+MemFree:                        58847292 kB
+MemAvailable:                   63838372 kB
+Buffers:                        958828 kB
